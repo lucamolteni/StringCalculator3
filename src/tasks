@@ -1,0 +1,20 @@
+Tasks
+
+X Empty string should return 0
+X One number should evaluate to itself
+X On two numbers divided by comma, it should return their sum0
+X Sum ["", "3"] should be "3"
+X Two numbers divided by comma should have two tokens
+X ",2" -> Should generate ["", "2"]
+X ",2" -> 2
+X Empty tokens should be ignored by processor
+X Should accept more than one number
+X Allow newline instead of comma
+X Allow arbitrary seperators
+X Adding negative numbers should throws  “negatives not allowed”
+X On  “negatives not allowed” exception, all numbers should be printed
+Numbers bigger than 1000 should be ignored,
+
+
+
+
